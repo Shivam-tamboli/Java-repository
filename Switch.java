@@ -31,3 +31,21 @@ public class Switch {
     }
     
 }
+
+// Expected output
+// Enter a number.
+// 6
+// Invalid option.
+
+// Enter a number.
+// 3
+// Bonjure.
+
+
+// Enter a number.
+// 1
+// Hello.
+
+// Enter a number.
+// 2
+// Namaste.
