@@ -37,7 +37,7 @@ public class Switch {
 // 6
 // Invalid option.
 
-// Enter a number.
+// Enter a number.x
 // 3
 // Bonjure.
 
