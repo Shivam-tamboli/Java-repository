@@ -14,4 +14,4 @@ public class Javapattern {
 //       j         A           v           v          A
 //       j       A    A          v       v          A    A
 //  j    j     A   A A  A          v   v          A  A   A  A
-//    j  j   A            A          v          A             A
+//    j  j   A            A          v          A             A    

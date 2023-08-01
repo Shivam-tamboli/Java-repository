@@ -1,7 +1,6 @@
 import java.util.Scanner;
-
-public class switch1 {
-     System.out.println("Enter a number.");
+public class switchs {
+        System.out.p
         Scanner sc = new Scanner(System.in);
         // Taking input from the user.
         int button = sc.nextInt();

@@ -2,7 +2,7 @@ import java.util.Scanner;
 // Created a function name by printmyname.
 public class Function {               
     //            String type argument, agrument is name.
-    public static void printmyname (String name){
+    public static void printmyname (java.lang.String name){
         System.out.println(name);
         return;
 //      return.
@@ -11,7 +11,7 @@ public class Function {
         // Created a scanner object.
         Scanner sc = new Scanner(System.in);
         // Taking input from the user as a string.
-        String name = sc.next();
+        java.lang.String name = sc.next();
 //         Calling the function and giving the argunment.
         printmyname(name);
     }
