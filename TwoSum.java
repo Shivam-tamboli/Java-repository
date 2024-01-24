@@ -24,7 +24,7 @@ public class TwoSum {
       }
     public static void main(String[] args) {
         int[] nums = {16,4,23,8,15,42,1,2};
-        int target = 3x;
+        int target = 3;
         int[] result = twosum(nums, target);
 
         // Print each element of the result array separately
