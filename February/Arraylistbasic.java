@@ -33,3 +33,9 @@ public class Arraylistbasic {
     }
     
 }
+/*The expectd output will be
+ [1, 2]
+[1, 6, 2]
+false
+[1, 6, 2, 12, 21]
+ */
