@@ -43,10 +43,12 @@ public class Intersectionoftwosets{
     }
 }
 /*The expected input will be:
-    Input:
- * set1 : [1,2,3,4] [3,4,5,6]
- * Output : [3,4]
- * 
- * 
- * 
+ Input:
+int[] arr1 = {1,2,3,4,5};
+int[] arr2 = {6,3,7,4};
+Output:
+Set1 elements are:[1, 2, 3, 4, 5]
+Set2 elements are:[3, 4, 6, 7]
+Intersection of two sets:[3, 4]
+ 
  */
