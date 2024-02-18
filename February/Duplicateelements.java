@@ -19,20 +19,18 @@ public class Duplicateelements {
     int[] arr = {100,99,65,78,200,65,100,99};
     // Created a hashset to stored a unique numbers.
     HashSet<Integer> uniqueelements = new HashSet<>();
-    // Using for loop iteration to add all elements in an array.
-    // elements : elements of an array.
-    for(int element : arr){
-        // Using if statement and logical Not operator negates the result.
-        if(!uniqueelements.add(element)){
-            // retrun true that means the  element is added and is unique, ! makes it false.
-            // return false that means the element is not added because it's already present), ! makes it true.
-            System.out.println("Duplicate element:" + element);
+    // 
+    for(int i = 0; i<arr.length; i++){
+        if(uniqueelements.add(arr[i]) == false){
+            System.out.println(arr[i] + "It is duplicate");
         }
+    }
+   
     }
 
 }
     
-}
+
 /*The expected intput will be:
  * int[] arr = {4, 2, 8, 3, 2, 7, 1, 4, 8, 5};
  * 
