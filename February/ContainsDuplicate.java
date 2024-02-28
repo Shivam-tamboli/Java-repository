@@ -42,3 +42,9 @@ public class Containsduplicate {
     }
     
 }
+/*The expected input will be:
+ * nums = {1,2,3,4,5,6,7,1};
+ * 
+ * The expected output will be:
+ * true
+ */
