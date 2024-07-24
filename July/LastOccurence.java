@@ -5,7 +5,8 @@
 Exapmle : 
 Input : 
 int arr = {1,2,3,4,5,6,7,1} 
-Output : 
+int target = 6
+Output : 5
 */
 package July;
 import java.util.*;
