@@ -11,7 +11,7 @@ Input: nums = [1, 2, 3, 3]
 Output: true
  */
 
-package February.June;
+package June;
 import java.util.*;
 
 public class Duplicateinteger {

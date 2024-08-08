@@ -1,4 +1,4 @@
-package February.June;
+package June;
 import java.util.*;
 
 public class Hashset {

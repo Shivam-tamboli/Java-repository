@@ -19,7 +19,7 @@
  * [0,1]
  */
 
-    package February.June;
+    package June;
 
     import java.util.*;
 

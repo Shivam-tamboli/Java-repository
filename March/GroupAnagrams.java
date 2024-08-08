@@ -9,7 +9,7 @@ Example 2:
 Input : strs = {"aabc" ,"abbc","abac",babc}
 Output : ["aabc",abac],["abbc","babc"]
 */
-package February.March;
+package March;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -9,7 +9,7 @@
  * Input :  strs = ["act","pots","tops","cat","stop","hat"]
 Output: [["hat"],["act", "cat"],["stop", "pots", "tops"]]
  */
-package February.June;
+package June;
 
 
 import java.util.ArrayList;

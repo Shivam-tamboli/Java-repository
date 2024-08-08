@@ -16,7 +16,7 @@
 //  k = 1
 // Output : {1}
 
-package February.June;
+package June;
 
 import java.util.ArrayList;
 import java.util.HashMap;

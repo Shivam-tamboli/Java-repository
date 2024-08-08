@@ -1,4 +1,4 @@
-package February.June;
+package June;
 
 public class Maxvaluearray {
     public static void main(String[] args) {
